@@ -1,2 +1,6 @@
+# virtual environment files and packages
 venv/
+# contains production variables
 config.py
+# contains the sqlite database
+instance/
