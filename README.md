@@ -17,7 +17,7 @@ open a terminal and type python --version (windows) or python3 --version (mac)
 
 # Activate the venv
 
-- in the terminal `source venv/bin/activate`
+- in the terminal for Mac: `source venv/bin/activate` For PC: `venv\Scripts\activate`
 - (venv) should appear in your terminal next to your path
 
 # Install requirements.txt
